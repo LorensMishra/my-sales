@@ -130,17 +130,7 @@ If you encounter issues:
 2. Clear browser cache
 3. Try a different supported browser
 
-## Contact Information
-For questions, technical support, or feedback regarding this dashboard, please contact:
 
-**Dashboard Support Team**  
-Email: dashboard-support@company.com  
-Phone: (555) 123-DASH (3274)  
-Hours: Monday-Friday, 9:00 AM - 6:00 PM EST
-
-**Business Analytics Department**  
-Email: analytics@company.com  
-Office: Suite 400, Main Headquarters
 
 
 
